@@ -24,5 +24,11 @@ public class TestRunner {
 		ReportingClass.generateReport("target\\jsonReport.json");
 		
 	}
+	
+	private void Company() {
+
+		System.out.println("Company name is TCS");
+		System.out.println("Company address chennai");
+	}
 
 }
