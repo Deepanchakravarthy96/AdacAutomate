@@ -24,5 +24,9 @@ public class TestRunner {
 		ReportingClass.generateReport("target\\jsonReport.json");
 		
 	}
+	private void Employee() {
+		System.out.println("Employee name is Deepan");
+		System.out.println("Employee job is Tester");
+	}
 
 }
